@@ -84,6 +84,7 @@ import numpy as np
 #     count_mysql = parsed_description.apply(lambda s: 'mysql' in s).sum()
 #     print('oracle: ' + str(count_java) + ' of ' + str(parsed_description.shape[0]))
 #     print('mysql: ' + str(count_mysql) + ' of ' + str(parsed_description.shape[0]))
+#     print('mysql: ' + str(count_mysql) + ' of ' + str(parsed_description.shape[0]))
 
 import string
 import numpy as np
